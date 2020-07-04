@@ -1,2 +1,4 @@
 # os-code-daily
-日历报告
+#Schedule
+##7.4
+rust环境搭建
